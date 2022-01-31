@@ -12,6 +12,7 @@ body {
 
 }
 
+
 .extra{
     width: 70%;
     background-color: yellow;
@@ -19,4 +20,23 @@ body {
     color: tomato;
     text-align: center;
     margin: 0 auto;
+}
+.cabecera{
+    background-color: rgb(52, 15, 73);
+    color: white;
+    height: 3rem; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#nuevoDiv{
+    background-color: blueviolet;
+    width: 70%;
+    margin: 0 auto;
+    height: 3rem;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
