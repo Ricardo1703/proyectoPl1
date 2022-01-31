@@ -11,3 +11,12 @@ body {
     margin: 0 auto;
 
 }
+
+.cabecera{
+    background-color: rgb(21, 15, 73);
+    color: white;
+    height: 3rem; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
