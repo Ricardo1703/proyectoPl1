@@ -3,3 +3,11 @@ body {
     font-family: Arial;
     color: cornflowerblue;
 }
+
+.container{
+    width: 70%;
+    text-align: center;
+    border: 1px solid rgb(31, 30, 68);
+    margin: 0 auto;
+
+}
