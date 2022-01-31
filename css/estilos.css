@@ -20,3 +20,14 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+#nuevoDiv{
+    background-color: blueviolet;
+    width: 70%;
+    margin: 0 auto;
+    height: 3rem;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
