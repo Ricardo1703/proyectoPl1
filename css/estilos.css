@@ -11,3 +11,12 @@ body {
     margin: 0 auto;
 
 }
+
+.extra{
+    width: 70%;
+    background-color: yellow;
+    margin-top: 2rem;
+    color: tomato;
+    text-align: center;
+    margin: 0 auto;
+}
