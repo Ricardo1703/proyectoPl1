@@ -35,8 +35,12 @@ body {
     width: 70%;
     margin: 0 auto;
     height: 3rem;
-    color: black;
+    color: white;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content:space-around;
+}
+
+#cacatua{
+    width: 60px;
 }
