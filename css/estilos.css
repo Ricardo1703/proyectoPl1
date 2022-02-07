@@ -34,9 +34,10 @@ body {
     width: 70%;
     margin: 0 auto;
     height: 3rem;
-    color: black;
+    color: white;
     display: flex;
     align-items: center;
+<<<<<<< HEAD
     justify-content: center;
 }
 
@@ -44,4 +45,11 @@ body {
     height: 5rem;
     background-color: rgb(66, 66, 66);
     color: white;
+=======
+    justify-content:space-around;
+}
+
+#cacatua{
+    width: 60px;
+>>>>>>> d676cdd4eb743efc6f85117f7b6fcd8b93493db3
 }
